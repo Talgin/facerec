@@ -15,7 +15,7 @@ config.net_input = 1
 config.net_blocks = [1,4,6,2]
 config.net_output = 'E'
 config.net_multiplier = 1.0
-config.val_targets = ['lfw', 'cfp_fp', 'agedb_30']
+config.val_targets = ['dataset200', 'lfw', 'cfp_fp', 'agedb_30']
 config.ce_loss = True
 config.fc7_lr_mult = 1.0
 config.fc7_wd_mult = 1.0
@@ -107,11 +107,12 @@ network.mnas025.net_multiplier = 0.25
 dataset = edict()
 
 dataset.emore = edict()
+
 dataset.emore.dataset = 'emore'
-dataset.emore.dataset_path = '../datasets/faces_emore'
-dataset.emore.num_classes = 85742
+dataset.emore.dataset_path = '/mnt/DATASETS/INSIGHTFACE/merge_200'
+dataset.emore.num_classes = 181058 # 25 or default was aroun 85000 looooooooooook over theeeeeeeeereeeeeeeeeee boooooooooooy
 dataset.emore.image_shape = (112,112,3)
-dataset.emore.val_targets = ['lfw', 'cfp_fp', 'agedb_30']
+dataset.emore.val_targets = ['dataset200', 'lfw', 'cfp_fp', 'agedb_30']
 
 dataset.retina = edict()
 dataset.retina.dataset = 'retina'
@@ -184,14 +185,14 @@ default.frequent = 20
 default.verbose = 2000
 default.kvstore = 'device'
 
-default.end_epoch = 10000
-default.lr = 0.1
+default.end_epoch = 1000 # was 10000
+default.lr = 0.001  # was 0.1
 default.wd = 0.0005
 default.mom = 0.9
-default.per_batch_size = 128
+default.per_batch_size = 16 # 128
 default.ckpt = 3
 default.lr_steps = '100000,160000,220000'
-default.models_root = './models'
+default.models_root = './models/kaz'
 
 
 def generate_config(_network, _dataset, _loss):
