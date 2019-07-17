@@ -1,0 +1,600 @@
+Iliya_Iliyn	74	28
+Iliya_Iliyn	66	34
+Iliya_Iliyn	11	25
+Zhaniya_Djurinskaya	90	91
+Zhaniya_Djurinskaya	15	35
+Zhaniya_Djurinskaya	45	16
+Talgat_Bigeldinov	3	1
+Talgat_Bigeldinov	2	3
+Talgat_Bigeldinov	1	2
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Kairat_Nurtas	39	75
+Kairat_Nurtas	43	12
+Kairat_Nurtas	11	25
+Zhanar_Dugalova	92	92
+Zhanar_Dugalova	35	49
+Zhanar_Dugalova	63	18
+Gennadii_Golovkin	3	91
+Gennadii_Golovkin	43	11
+Gennadii_Golovkin	46	7
+Dilnaz_Akhmadiyeva	92	27
+Dilnaz_Akhmadiyeva	88	91
+Dilnaz_Akhmadiyeva	40	79
+Saken_Maigaziyev	22	56
+Saken_Maigaziyev	25	49
+Saken_Maigaziyev	79	28
+Alibek_Datbayev	3	3
+Alibek_Datbayev	3	2
+Alibek_Datbayev	3	1
+Iliya_Iliyn	34	Dilnaz_Akhmadiyeva	10
+Iliya_Iliyn	26	Dilnaz_Akhmadiyeva	15
+Iliya_Iliyn	14	Dilnaz_Akhmadiyeva	19
+Zhaniya_Djurinskaya	34	Talgat_Bigeldinov	2
+Zhaniya_Djurinskaya	12	Talgat_Bigeldinov	2
+Zhaniya_Djurinskaya	14	Talgat_Bigeldinov	2
+Talgat_Bigeldinov	1	Kairat_Nurtas	41
+Talgat_Bigeldinov	3	Kairat_Nurtas	43
+Talgat_Bigeldinov	3	Kairat_Nurtas	56
+Almas_Nazyrov	1	Alibek_Datbayev	1
+Almas_Nazyrov	1	Alibek_Datbayev	2
+Almas_Nazyrov	1	Alibek_Datbayev	3
+Kairat_Nurtas	50	Alibek_Datbayev	3
+Kairat_Nurtas	79	Alibek_Datbayev	1
+Kairat_Nurtas	81	Alibek_Datbayev	2
+Zhanar_Dugalova	12	Dilnaz_Akhmadiyeva	9
+Zhanar_Dugalova	51	Dilnaz_Akhmadiyeva	34
+Zhanar_Dugalova	71	Dilnaz_Akhmadiyeva	21
+Gennadii_Golovkin	69	Zhaniya_Djurinskaya	44
+Gennadii_Golovkin	32	Zhaniya_Djurinskaya	69
+Gennadii_Golovkin	10	Zhaniya_Djurinskaya	88
+Dilnaz_Akhmadiyeva	3	Iliya_Iliyn	38
+Dilnaz_Akhmadiyeva	35	Iliya_Iliyn	62
+Dilnaz_Akhmadiyeva	59	Iliya_Iliyn	7
+Saken_Maigaziyev	6	Zhaniya_Djurinskaya	25
+Saken_Maigaziyev	83	Zhaniya_Djurinskaya	86
+Saken_Maigaziyev	33	Zhaniya_Djurinskaya	4
+Alibek_Datbayev	2	Kairat_Nurtas	32
+Alibek_Datbayev	2	Kairat_Nurtas	69
+Alibek_Datbayev	1	Kairat_Nurtas	30
+Iliya_Iliyn	3	63
+Iliya_Iliyn	81	70
+Iliya_Iliyn	78	85
+Zhaniya_Djurinskaya	28	9
+Zhaniya_Djurinskaya	48	16
+Zhaniya_Djurinskaya	20	55
+Talgat_Bigeldinov	3	1
+Talgat_Bigeldinov	1	3
+Talgat_Bigeldinov	3	2
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Kairat_Nurtas	19	75
+Kairat_Nurtas	74	23
+Kairat_Nurtas	40	87
+Zhanar_Dugalova	40	48
+Zhanar_Dugalova	45	94
+Zhanar_Dugalova	23	68
+Gennadii_Golovkin	32	38
+Gennadii_Golovkin	94	6
+Gennadii_Golovkin	7	47
+Dilnaz_Akhmadiyeva	88	56
+Dilnaz_Akhmadiyeva	44	81
+Dilnaz_Akhmadiyeva	83	33
+Saken_Maigaziyev	22	29
+Saken_Maigaziyev	17	52
+Saken_Maigaziyev	17	46
+Alibek_Datbayev	2	2
+Alibek_Datbayev	1	3
+Alibek_Datbayev	3	1
+Iliya_Iliyn	85	Zhaniya_Djurinskaya	82
+Iliya_Iliyn	1	Zhaniya_Djurinskaya	79
+Iliya_Iliyn	46	Zhaniya_Djurinskaya	15
+Zhaniya_Djurinskaya	52	Zhanar_Dugalova	58
+Zhaniya_Djurinskaya	89	Zhanar_Dugalova	80
+Zhaniya_Djurinskaya	72	Zhanar_Dugalova	86
+Talgat_Bigeldinov	2	Saken_Maigaziyev	58
+Talgat_Bigeldinov	3	Saken_Maigaziyev	36
+Talgat_Bigeldinov	2	Saken_Maigaziyev	41
+Almas_Nazyrov	1	Kairat_Nurtas	50
+Almas_Nazyrov	1	Kairat_Nurtas	72
+Almas_Nazyrov	1	Kairat_Nurtas	36
+Kairat_Nurtas	41	Almas_Nazyrov	1
+Kairat_Nurtas	55	Almas_Nazyrov	1
+Kairat_Nurtas	60	Almas_Nazyrov	1
+Zhanar_Dugalova	72	Dilnaz_Akhmadiyeva	68
+Zhanar_Dugalova	17	Dilnaz_Akhmadiyeva	49
+Zhanar_Dugalova	32	Dilnaz_Akhmadiyeva	61
+Gennadii_Golovkin	15	Dilnaz_Akhmadiyeva	63
+Gennadii_Golovkin	91	Dilnaz_Akhmadiyeva	39
+Gennadii_Golovkin	74	Dilnaz_Akhmadiyeva	90
+Dilnaz_Akhmadiyeva	54	Zhaniya_Djurinskaya	3
+Dilnaz_Akhmadiyeva	27	Zhaniya_Djurinskaya	12
+Dilnaz_Akhmadiyeva	9	Zhaniya_Djurinskaya	43
+Saken_Maigaziyev	1	Talgat_Bigeldinov	3
+Saken_Maigaziyev	64	Talgat_Bigeldinov	3
+Saken_Maigaziyev	37	Talgat_Bigeldinov	3
+Alibek_Datbayev	3	Saken_Maigaziyev	57
+Alibek_Datbayev	3	Saken_Maigaziyev	35
+Alibek_Datbayev	2	Saken_Maigaziyev	39
+Iliya_Iliyn	18	45
+Iliya_Iliyn	51	11
+Iliya_Iliyn	81	93
+Zhaniya_Djurinskaya	47	36
+Zhaniya_Djurinskaya	81	20
+Zhaniya_Djurinskaya	65	1
+Talgat_Bigeldinov	1	1
+Talgat_Bigeldinov	3	1
+Talgat_Bigeldinov	1	2
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Kairat_Nurtas	45	81
+Kairat_Nurtas	70	89
+Kairat_Nurtas	23	46
+Zhanar_Dugalova	2	67
+Zhanar_Dugalova	79	52
+Zhanar_Dugalova	67	6
+Gennadii_Golovkin	6	80
+Gennadii_Golovkin	91	6
+Gennadii_Golovkin	60	49
+Dilnaz_Akhmadiyeva	2	56
+Dilnaz_Akhmadiyeva	30	86
+Dilnaz_Akhmadiyeva	34	56
+Saken_Maigaziyev	43	44
+Saken_Maigaziyev	2	65
+Saken_Maigaziyev	52	56
+Alibek_Datbayev	2	2
+Alibek_Datbayev	1	2
+Alibek_Datbayev	2	3
+Iliya_Iliyn	47	Kairat_Nurtas	32
+Iliya_Iliyn	75	Kairat_Nurtas	4
+Iliya_Iliyn	19	Kairat_Nurtas	51
+Zhaniya_Djurinskaya	47	Alibek_Datbayev	1
+Zhaniya_Djurinskaya	41	Alibek_Datbayev	1
+Zhaniya_Djurinskaya	28	Alibek_Datbayev	1
+Talgat_Bigeldinov	3	Zhaniya_Djurinskaya	34
+Talgat_Bigeldinov	3	Zhaniya_Djurinskaya	37
+Talgat_Bigeldinov	3	Zhaniya_Djurinskaya	70
+Almas_Nazyrov	1	Zhanar_Dugalova	1
+Almas_Nazyrov	1	Zhanar_Dugalova	91
+Almas_Nazyrov	1	Zhanar_Dugalova	88
+Kairat_Nurtas	38	Iliya_Iliyn	74
+Kairat_Nurtas	74	Iliya_Iliyn	17
+Kairat_Nurtas	22	Iliya_Iliyn	48
+Zhanar_Dugalova	86	Zhaniya_Djurinskaya	48
+Zhanar_Dugalova	32	Zhaniya_Djurinskaya	44
+Zhanar_Dugalova	17	Zhaniya_Djurinskaya	50
+Gennadii_Golovkin	49	Zhanar_Dugalova	81
+Gennadii_Golovkin	65	Zhanar_Dugalova	91
+Gennadii_Golovkin	8	Zhanar_Dugalova	62
+Dilnaz_Akhmadiyeva	78	Talgat_Bigeldinov	3
+Dilnaz_Akhmadiyeva	30	Talgat_Bigeldinov	1
+Dilnaz_Akhmadiyeva	21	Talgat_Bigeldinov	2
+Saken_Maigaziyev	88	Gennadii_Golovkin	35
+Saken_Maigaziyev	34	Gennadii_Golovkin	67
+Saken_Maigaziyev	74	Gennadii_Golovkin	50
+Alibek_Datbayev	3	Saken_Maigaziyev	67
+Alibek_Datbayev	3	Saken_Maigaziyev	86
+Alibek_Datbayev	3	Saken_Maigaziyev	27
+Iliya_Iliyn	9	90
+Iliya_Iliyn	44	72
+Iliya_Iliyn	19	20
+Zhaniya_Djurinskaya	1	63
+Zhaniya_Djurinskaya	49	49
+Zhaniya_Djurinskaya	89	27
+Talgat_Bigeldinov	1	2
+Talgat_Bigeldinov	2	1
+Talgat_Bigeldinov	3	2
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Kairat_Nurtas	63	52
+Kairat_Nurtas	37	2
+Kairat_Nurtas	79	69
+Zhanar_Dugalova	11	84
+Zhanar_Dugalova	82	36
+Zhanar_Dugalova	61	27
+Gennadii_Golovkin	4	2
+Gennadii_Golovkin	5	26
+Gennadii_Golovkin	7	15
+Dilnaz_Akhmadiyeva	24	11
+Dilnaz_Akhmadiyeva	79	55
+Dilnaz_Akhmadiyeva	49	70
+Saken_Maigaziyev	49	18
+Saken_Maigaziyev	3	3
+Saken_Maigaziyev	33	25
+Alibek_Datbayev	1	1
+Alibek_Datbayev	2	1
+Alibek_Datbayev	3	3
+Iliya_Iliyn	91	Talgat_Bigeldinov	1
+Iliya_Iliyn	79	Talgat_Bigeldinov	1
+Iliya_Iliyn	15	Talgat_Bigeldinov	1
+Zhaniya_Djurinskaya	88	Alibek_Datbayev	1
+Zhaniya_Djurinskaya	80	Alibek_Datbayev	3
+Zhaniya_Djurinskaya	36	Alibek_Datbayev	3
+Talgat_Bigeldinov	3	Dilnaz_Akhmadiyeva	81
+Talgat_Bigeldinov	2	Dilnaz_Akhmadiyeva	20
+Talgat_Bigeldinov	1	Dilnaz_Akhmadiyeva	74
+Almas_Nazyrov	1	Talgat_Bigeldinov	3
+Almas_Nazyrov	1	Talgat_Bigeldinov	2
+Almas_Nazyrov	1	Talgat_Bigeldinov	2
+Kairat_Nurtas	76	Zhaniya_Djurinskaya	48
+Kairat_Nurtas	90	Zhaniya_Djurinskaya	58
+Kairat_Nurtas	66	Zhaniya_Djurinskaya	23
+Zhanar_Dugalova	35	Gennadii_Golovkin	82
+Zhanar_Dugalova	24	Gennadii_Golovkin	16
+Zhanar_Dugalova	4	Gennadii_Golovkin	56
+Gennadii_Golovkin	51	Alibek_Datbayev	1
+Gennadii_Golovkin	33	Alibek_Datbayev	1
+Gennadii_Golovkin	31	Alibek_Datbayev	1
+Dilnaz_Akhmadiyeva	37	Talgat_Bigeldinov	3
+Dilnaz_Akhmadiyeva	9	Talgat_Bigeldinov	2
+Dilnaz_Akhmadiyeva	25	Talgat_Bigeldinov	3
+Saken_Maigaziyev	5	Dilnaz_Akhmadiyeva	80
+Saken_Maigaziyev	13	Dilnaz_Akhmadiyeva	56
+Saken_Maigaziyev	56	Dilnaz_Akhmadiyeva	76
+Alibek_Datbayev	3	Saken_Maigaziyev	83
+Alibek_Datbayev	1	Saken_Maigaziyev	86
+Alibek_Datbayev	2	Saken_Maigaziyev	47
+Iliya_Iliyn	91	49
+Iliya_Iliyn	32	41
+Iliya_Iliyn	21	59
+Zhaniya_Djurinskaya	74	18
+Zhaniya_Djurinskaya	71	3
+Zhaniya_Djurinskaya	13	71
+Talgat_Bigeldinov	1	2
+Talgat_Bigeldinov	2	2
+Talgat_Bigeldinov	1	3
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Kairat_Nurtas	56	45
+Kairat_Nurtas	45	71
+Kairat_Nurtas	41	10
+Zhanar_Dugalova	37	46
+Zhanar_Dugalova	42	67
+Zhanar_Dugalova	92	82
+Gennadii_Golovkin	17	77
+Gennadii_Golovkin	79	77
+Gennadii_Golovkin	50	4
+Dilnaz_Akhmadiyeva	35	3
+Dilnaz_Akhmadiyeva	17	66
+Dilnaz_Akhmadiyeva	11	78
+Saken_Maigaziyev	1	84
+Saken_Maigaziyev	40	27
+Saken_Maigaziyev	15	28
+Alibek_Datbayev	2	3
+Alibek_Datbayev	1	3
+Alibek_Datbayev	2	3
+Iliya_Iliyn	28	Kairat_Nurtas	61
+Iliya_Iliyn	79	Kairat_Nurtas	18
+Iliya_Iliyn	87	Kairat_Nurtas	11
+Zhaniya_Djurinskaya	35	Talgat_Bigeldinov	3
+Zhaniya_Djurinskaya	42	Talgat_Bigeldinov	2
+Zhaniya_Djurinskaya	50	Talgat_Bigeldinov	2
+Talgat_Bigeldinov	1	Talgat_Bigeldinov	2
+Talgat_Bigeldinov	3	Talgat_Bigeldinov	3
+Talgat_Bigeldinov	2	Talgat_Bigeldinov	2
+Almas_Nazyrov	1	Zhaniya_Djurinskaya	83
+Almas_Nazyrov	1	Zhaniya_Djurinskaya	80
+Almas_Nazyrov	1	Zhaniya_Djurinskaya	20
+Kairat_Nurtas	48	Kairat_Nurtas	83
+Kairat_Nurtas	52	Kairat_Nurtas	23
+Kairat_Nurtas	21	Kairat_Nurtas	84
+Zhanar_Dugalova	73	Saken_Maigaziyev	35
+Zhanar_Dugalova	46	Saken_Maigaziyev	26
+Zhanar_Dugalova	60	Saken_Maigaziyev	18
+Gennadii_Golovkin	3	Dilnaz_Akhmadiyeva	41
+Gennadii_Golovkin	44	Dilnaz_Akhmadiyeva	77
+Gennadii_Golovkin	54	Dilnaz_Akhmadiyeva	16
+Dilnaz_Akhmadiyeva	64	Kairat_Nurtas	55
+Dilnaz_Akhmadiyeva	75	Kairat_Nurtas	82
+Dilnaz_Akhmadiyeva	45	Kairat_Nurtas	89
+Saken_Maigaziyev	20	Zhaniya_Djurinskaya	83
+Saken_Maigaziyev	39	Zhaniya_Djurinskaya	80
+Saken_Maigaziyev	87	Zhaniya_Djurinskaya	20
+Alibek_Datbayev	2	Dilnaz_Akhmadiyeva	90
+Alibek_Datbayev	2	Dilnaz_Akhmadiyeva	80
+Alibek_Datbayev	3	Dilnaz_Akhmadiyeva	67
+Iliya_Iliyn	54	52
+Iliya_Iliyn	57	51
+Iliya_Iliyn	44	94
+Zhaniya_Djurinskaya	91	35
+Zhaniya_Djurinskaya	22	63
+Zhaniya_Djurinskaya	79	5
+Talgat_Bigeldinov	1	3
+Talgat_Bigeldinov	1	2
+Talgat_Bigeldinov	2	3
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Kairat_Nurtas	85	12
+Kairat_Nurtas	42	67
+Kairat_Nurtas	49	47
+Zhanar_Dugalova	46	13
+Zhanar_Dugalova	17	30
+Zhanar_Dugalova	10	69
+Gennadii_Golovkin	5	97
+Gennadii_Golovkin	42	29
+Gennadii_Golovkin	90	36
+Dilnaz_Akhmadiyeva	59	33
+Dilnaz_Akhmadiyeva	37	31
+Dilnaz_Akhmadiyeva	61	91
+Saken_Maigaziyev	64	46
+Saken_Maigaziyev	16	27
+Saken_Maigaziyev	60	12
+Alibek_Datbayev	3	3
+Alibek_Datbayev	3	2
+Alibek_Datbayev	2	2
+Iliya_Iliyn	74	Zhaniya_Djurinskaya	34
+Iliya_Iliyn	51	Zhaniya_Djurinskaya	62
+Iliya_Iliyn	90	Zhaniya_Djurinskaya	58
+Zhaniya_Djurinskaya	26	Alibek_Datbayev	3
+Zhaniya_Djurinskaya	38	Alibek_Datbayev	3
+Zhaniya_Djurinskaya	42	Alibek_Datbayev	2
+Talgat_Bigeldinov	2	Zhanar_Dugalova	10
+Talgat_Bigeldinov	2	Zhanar_Dugalova	14
+Talgat_Bigeldinov	3	Zhanar_Dugalova	62
+Almas_Nazyrov	1	Iliya_Iliyn	25
+Almas_Nazyrov	1	Iliya_Iliyn	16
+Almas_Nazyrov	1	Iliya_Iliyn	49
+Kairat_Nurtas	77	Talgat_Bigeldinov	1
+Kairat_Nurtas	55	Talgat_Bigeldinov	3
+Kairat_Nurtas	74	Talgat_Bigeldinov	1
+Zhanar_Dugalova	9	Talgat_Bigeldinov	1
+Zhanar_Dugalova	67	Talgat_Bigeldinov	2
+Zhanar_Dugalova	39	Talgat_Bigeldinov	3
+Gennadii_Golovkin	25	Zhanar_Dugalova	93
+Gennadii_Golovkin	35	Zhanar_Dugalova	54
+Gennadii_Golovkin	65	Zhanar_Dugalova	26
+Dilnaz_Akhmadiyeva	65	Iliya_Iliyn	2
+Dilnaz_Akhmadiyeva	68	Iliya_Iliyn	26
+Dilnaz_Akhmadiyeva	67	Iliya_Iliyn	54
+Saken_Maigaziyev	27	Almas_Nazyrov	1
+Saken_Maigaziyev	30	Almas_Nazyrov	1
+Saken_Maigaziyev	23	Almas_Nazyrov	1
+Alibek_Datbayev	3	Talgat_Bigeldinov	3
+Alibek_Datbayev	3	Talgat_Bigeldinov	2
+Alibek_Datbayev	1	Talgat_Bigeldinov	3
+Iliya_Iliyn	53	62
+Iliya_Iliyn	85	77
+Iliya_Iliyn	44	58
+Zhaniya_Djurinskaya	22	74
+Zhaniya_Djurinskaya	86	36
+Zhaniya_Djurinskaya	40	54
+Talgat_Bigeldinov	1	3
+Talgat_Bigeldinov	3	1
+Talgat_Bigeldinov	2	3
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Kairat_Nurtas	92	54
+Kairat_Nurtas	37	73
+Kairat_Nurtas	58	83
+Zhanar_Dugalova	65	34
+Zhanar_Dugalova	73	16
+Zhanar_Dugalova	76	14
+Gennadii_Golovkin	42	37
+Gennadii_Golovkin	44	57
+Gennadii_Golovkin	17	40
+Dilnaz_Akhmadiyeva	62	26
+Dilnaz_Akhmadiyeva	92	66
+Dilnaz_Akhmadiyeva	37	42
+Saken_Maigaziyev	27	33
+Saken_Maigaziyev	66	52
+Saken_Maigaziyev	84	28
+Alibek_Datbayev	1	2
+Alibek_Datbayev	1	1
+Alibek_Datbayev	2	3
+Iliya_Iliyn	65	Kairat_Nurtas	14
+Iliya_Iliyn	55	Kairat_Nurtas	71
+Iliya_Iliyn	27	Kairat_Nurtas	89
+Zhaniya_Djurinskaya	71	Almas_Nazyrov	1
+Zhaniya_Djurinskaya	78	Almas_Nazyrov	1
+Zhaniya_Djurinskaya	40	Almas_Nazyrov	1
+Talgat_Bigeldinov	1	Dilnaz_Akhmadiyeva	13
+Talgat_Bigeldinov	1	Dilnaz_Akhmadiyeva	16
+Talgat_Bigeldinov	2	Dilnaz_Akhmadiyeva	20
+Almas_Nazyrov	1	Dilnaz_Akhmadiyeva	22
+Almas_Nazyrov	1	Dilnaz_Akhmadiyeva	60
+Almas_Nazyrov	1	Dilnaz_Akhmadiyeva	50
+Kairat_Nurtas	3	Gennadii_Golovkin	39
+Kairat_Nurtas	11	Gennadii_Golovkin	51
+Kairat_Nurtas	85	Gennadii_Golovkin	15
+Zhanar_Dugalova	3	Dilnaz_Akhmadiyeva	64
+Zhanar_Dugalova	54	Dilnaz_Akhmadiyeva	27
+Zhanar_Dugalova	46	Dilnaz_Akhmadiyeva	69
+Gennadii_Golovkin	75	Talgat_Bigeldinov	3
+Gennadii_Golovkin	84	Talgat_Bigeldinov	3
+Gennadii_Golovkin	89	Talgat_Bigeldinov	1
+Dilnaz_Akhmadiyeva	78	Zhanar_Dugalova	2
+Dilnaz_Akhmadiyeva	77	Zhanar_Dugalova	70
+Dilnaz_Akhmadiyeva	67	Zhanar_Dugalova	80
+Saken_Maigaziyev	64	Alibek_Datbayev	1
+Saken_Maigaziyev	49	Alibek_Datbayev	1
+Saken_Maigaziyev	73	Alibek_Datbayev	1
+Alibek_Datbayev	3	Gennadii_Golovkin	76
+Alibek_Datbayev	2	Gennadii_Golovkin	69
+Alibek_Datbayev	1	Gennadii_Golovkin	37
+Iliya_Iliyn	45	65
+Iliya_Iliyn	3	65
+Iliya_Iliyn	26	44
+Zhaniya_Djurinskaya	33	46
+Zhaniya_Djurinskaya	24	45
+Zhaniya_Djurinskaya	13	62
+Talgat_Bigeldinov	3	3
+Talgat_Bigeldinov	2	3
+Talgat_Bigeldinov	1	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Kairat_Nurtas	4	72
+Kairat_Nurtas	17	36
+Kairat_Nurtas	84	38
+Zhanar_Dugalova	63	64
+Zhanar_Dugalova	40	90
+Zhanar_Dugalova	38	5
+Gennadii_Golovkin	52	39
+Gennadii_Golovkin	76	21
+Gennadii_Golovkin	46	42
+Dilnaz_Akhmadiyeva	37	81
+Dilnaz_Akhmadiyeva	28	28
+Dilnaz_Akhmadiyeva	22	91
+Saken_Maigaziyev	14	1
+Saken_Maigaziyev	55	22
+Saken_Maigaziyev	35	73
+Alibek_Datbayev	3	3
+Alibek_Datbayev	3	1
+Alibek_Datbayev	2	1
+Iliya_Iliyn	40	Saken_Maigaziyev	41
+Iliya_Iliyn	40	Saken_Maigaziyev	42
+Iliya_Iliyn	39	Saken_Maigaziyev	42
+Zhaniya_Djurinskaya	63	Almas_Nazyrov	1
+Zhaniya_Djurinskaya	83	Almas_Nazyrov	1
+Zhaniya_Djurinskaya	43	Almas_Nazyrov	1
+Talgat_Bigeldinov	1	Kairat_Nurtas	92
+Talgat_Bigeldinov	3	Kairat_Nurtas	19
+Talgat_Bigeldinov	2	Kairat_Nurtas	37
+Almas_Nazyrov	1	Alibek_Datbayev	1
+Almas_Nazyrov	1	Alibek_Datbayev	1
+Almas_Nazyrov	1	Alibek_Datbayev	2
+Kairat_Nurtas	39	Saken_Maigaziyev	25
+Kairat_Nurtas	7	Saken_Maigaziyev	50
+Kairat_Nurtas	14	Saken_Maigaziyev	18
+Zhanar_Dugalova	37	Almas_Nazyrov	1
+Zhanar_Dugalova	71	Almas_Nazyrov	1
+Zhanar_Dugalova	73	Almas_Nazyrov	1
+Gennadii_Golovkin	31	Zhaniya_Djurinskaya	29
+Gennadii_Golovkin	88	Zhaniya_Djurinskaya	81
+Gennadii_Golovkin	10	Zhaniya_Djurinskaya	56
+Dilnaz_Akhmadiyeva	45	Almas_Nazyrov	1
+Dilnaz_Akhmadiyeva	55	Almas_Nazyrov	1
+Dilnaz_Akhmadiyeva	34	Almas_Nazyrov	1
+Saken_Maigaziyev	74	Zhanar_Dugalova	44
+Saken_Maigaziyev	9	Zhanar_Dugalova	61
+Saken_Maigaziyev	44	Zhanar_Dugalova	93
+Alibek_Datbayev	1	Saken_Maigaziyev	49
+Alibek_Datbayev	3	Saken_Maigaziyev	42
+Alibek_Datbayev	1	Saken_Maigaziyev	5
+Iliya_Iliyn	57	92
+Iliya_Iliyn	73	8
+Iliya_Iliyn	94	49
+Zhaniya_Djurinskaya	7	33
+Zhaniya_Djurinskaya	55	74
+Zhaniya_Djurinskaya	14	42
+Talgat_Bigeldinov	2	1
+Talgat_Bigeldinov	2	3
+Talgat_Bigeldinov	3	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Kairat_Nurtas	64	42
+Kairat_Nurtas	1	43
+Kairat_Nurtas	60	67
+Zhanar_Dugalova	16	7
+Zhanar_Dugalova	17	76
+Zhanar_Dugalova	71	47
+Gennadii_Golovkin	17	73
+Gennadii_Golovkin	4	61
+Gennadii_Golovkin	39	79
+Dilnaz_Akhmadiyeva	85	75
+Dilnaz_Akhmadiyeva	90	19
+Dilnaz_Akhmadiyeva	23	90
+Saken_Maigaziyev	45	85
+Saken_Maigaziyev	59	19
+Saken_Maigaziyev	37	25
+Alibek_Datbayev	1	1
+Alibek_Datbayev	3	1
+Alibek_Datbayev	3	1
+Iliya_Iliyn	35	Alibek_Datbayev	1
+Iliya_Iliyn	50	Alibek_Datbayev	2
+Iliya_Iliyn	83	Alibek_Datbayev	1
+Zhaniya_Djurinskaya	67	Zhaniya_Djurinskaya	10
+Zhaniya_Djurinskaya	31	Zhaniya_Djurinskaya	69
+Zhaniya_Djurinskaya	38	Zhaniya_Djurinskaya	24
+Talgat_Bigeldinov	3	Dilnaz_Akhmadiyeva	28
+Talgat_Bigeldinov	2	Dilnaz_Akhmadiyeva	87
+Talgat_Bigeldinov	3	Dilnaz_Akhmadiyeva	69
+Almas_Nazyrov	1	Talgat_Bigeldinov	2
+Almas_Nazyrov	1	Talgat_Bigeldinov	3
+Almas_Nazyrov	1	Talgat_Bigeldinov	3
+Kairat_Nurtas	80	Zhanar_Dugalova	27
+Kairat_Nurtas	21	Zhanar_Dugalova	5
+Kairat_Nurtas	61	Zhanar_Dugalova	13
+Zhanar_Dugalova	44	Alibek_Datbayev	3
+Zhanar_Dugalova	37	Alibek_Datbayev	1
+Zhanar_Dugalova	70	Alibek_Datbayev	2
+Gennadii_Golovkin	64	Zhanar_Dugalova	5
+Gennadii_Golovkin	27	Zhanar_Dugalova	42
+Gennadii_Golovkin	36	Zhanar_Dugalova	71
+Dilnaz_Akhmadiyeva	90	Zhanar_Dugalova	84
+Dilnaz_Akhmadiyeva	8	Zhanar_Dugalova	80
+Dilnaz_Akhmadiyeva	51	Zhanar_Dugalova	55
+Saken_Maigaziyev	34	Zhaniya_Djurinskaya	55
+Saken_Maigaziyev	36	Zhaniya_Djurinskaya	23
+Saken_Maigaziyev	13	Zhaniya_Djurinskaya	20
+Alibek_Datbayev	2	Dilnaz_Akhmadiyeva	28
+Alibek_Datbayev	2	Dilnaz_Akhmadiyeva	87
+Alibek_Datbayev	3	Dilnaz_Akhmadiyeva	69
+Iliya_Iliyn	53	40
+Iliya_Iliyn	33	78
+Iliya_Iliyn	20	28
+Zhaniya_Djurinskaya	52	82
+Zhaniya_Djurinskaya	45	90
+Zhaniya_Djurinskaya	20	26
+Talgat_Bigeldinov	2	1
+Talgat_Bigeldinov	2	2
+Talgat_Bigeldinov	2	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Almas_Nazyrov	1	1
+Kairat_Nurtas	4	87
+Kairat_Nurtas	3	82
+Kairat_Nurtas	28	33
+Zhanar_Dugalova	84	35
+Zhanar_Dugalova	53	1
+Zhanar_Dugalova	58	43
+Gennadii_Golovkin	64	48
+Gennadii_Golovkin	55	84
+Gennadii_Golovkin	80	57
+Dilnaz_Akhmadiyeva	47	33
+Dilnaz_Akhmadiyeva	47	8
+Dilnaz_Akhmadiyeva	25	39
+Saken_Maigaziyev	24	13
+Saken_Maigaziyev	66	46
+Saken_Maigaziyev	78	62
+Alibek_Datbayev	3	3
+Alibek_Datbayev	1	1
+Alibek_Datbayev	3	2
+Iliya_Iliyn	95	Zhaniya_Djurinskaya	70
+Iliya_Iliyn	8	Zhaniya_Djurinskaya	72
+Iliya_Iliyn	32	Zhaniya_Djurinskaya	2
+Zhaniya_Djurinskaya	22	Iliya_Iliyn	26
+Zhaniya_Djurinskaya	1	Iliya_Iliyn	77
+Zhaniya_Djurinskaya	72	Iliya_Iliyn	14
+Talgat_Bigeldinov	1	Gennadii_Golovkin	68
+Talgat_Bigeldinov	3	Gennadii_Golovkin	17
+Talgat_Bigeldinov	2	Gennadii_Golovkin	23
+Almas_Nazyrov	1	Kairat_Nurtas	39
+Almas_Nazyrov	1	Kairat_Nurtas	78
+Almas_Nazyrov	1	Kairat_Nurtas	86
+Kairat_Nurtas	84	Zhanar_Dugalova	77
+Kairat_Nurtas	46	Zhanar_Dugalova	23
+Kairat_Nurtas	22	Zhanar_Dugalova	7
+Zhanar_Dugalova	73	Almas_Nazyrov	1
+Zhanar_Dugalova	58	Almas_Nazyrov	1
+Zhanar_Dugalova	76	Almas_Nazyrov	1
+Gennadii_Golovkin	81	Dilnaz_Akhmadiyeva	17
+Gennadii_Golovkin	15	Dilnaz_Akhmadiyeva	33
+Gennadii_Golovkin	48	Dilnaz_Akhmadiyeva	37
+Dilnaz_Akhmadiyeva	10	Zhanar_Dugalova	77
+Dilnaz_Akhmadiyeva	82	Zhanar_Dugalova	23
+Dilnaz_Akhmadiyeva	28	Zhanar_Dugalova	7
+Saken_Maigaziyev	1	Alibek_Datbayev	3
+Saken_Maigaziyev	86	Alibek_Datbayev	1
+Saken_Maigaziyev	52	Alibek_Datbayev	1
+Alibek_Datbayev	3	Dilnaz_Akhmadiyeva	43
+Alibek_Datbayev	3	Dilnaz_Akhmadiyeva	17
+Alibek_Datbayev	2	Dilnaz_Akhmadiyeva	3
